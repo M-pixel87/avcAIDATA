@@ -1,0 +1,4 @@
+blue_bucket
+green_bucket_barrier
+red_bucket_arch
+yellow_bucket
